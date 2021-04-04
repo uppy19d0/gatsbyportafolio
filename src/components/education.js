@@ -34,7 +34,7 @@ export default (props)=>{
               <article className="flex-1 bg-white shadow m-4 max-w-sm p-4 rounded truncate">
                 <header>
                   <p className="font-bold leading-loose truncate">{node.title}</p>
-                  <img src={PATH_IMG}  alt={node.img.alt}></img>
+                  <img src={PATH_IMG}  alt={node.img.alt} style={{height:"20px"}}></img>
                   <div className="mt-8">
                 <p className="font-light truncate">
                   {node.description}  

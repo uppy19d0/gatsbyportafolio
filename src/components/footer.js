@@ -1,20 +1,24 @@
+import { Link } from "gatsby";
 import React from "react";
-// import illustration from '../imgs/undraw_Success_factors_re_ce93.svg';
-// import Form from "./contact.form";
-export default()=>(
- <footer className="bg-gray-300">
-     <div>
-         Footer
-     </div>
-    {/* <div className="container mx-auto p-2 max-w-4xl">
-        <div className="flex justify-items-center items-center">
-            <div className="flex-1">
-            <h1 className="font-bold  text-blue-700 text-6xl">!Hola Soy Luis A. Tavarez De Jesus</h1>
-            <p className="font-light text-xl">Soy desarrollador Fullstack creo aplicaciones web y moviles</p>
-            </div>
-        </div>
-        <div>
-        </div>
-    </div> */}
- </footer>
+// import footerStyles from "../styles/global.css"
+ 
+const Footer = (props) => (
+    <div  className="footer clearfix">
+		<div className="footer-copy">
+			<div className="menu-footer-wrapper">
+				<div>
+                    <ul className="menu-footer">
+                        <li><Link to="/">Home</Link></li>
+                        <li><Link to="/">Contact</Link></li>
+                        <li><Link to="/">About</Link></li>
+                    </ul>
+                </div>					
+            </div>					
+			<div className="clear"></div>
+			<p className="copyright">© {(new Date().getFullYear())} <Link to="/">{props.title}</Link> | {props.tagline}</p>
+		</div>				
+		<div className="social-icons"></div>
+	</div>
 )
+ 
+export default Footer

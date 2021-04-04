@@ -20,3 +20,65 @@ column-rule: 1px solid;
 body{
     @apply bg-gray-100
 }
+
+
+
+
+.clearfix {
+    *display: inline-block;
+    height: 1%;
+}
+.clearfix:after {
+    content: "";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    font-size: 0;
+    height: 0;
+}
+.clear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+.footer {
+    width: 100%;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    --tw-bg-opacity:1;
+    background-color: rgba(59, 130, 246, var(--tw-bg-opacity));
+    border-color: rgba(29, 78, 216, var(--tw-border-opacity));
+}
+.footer-copy {
+    float: left;
+}
+.menu-footer-wrapper {
+    float: left;
+}
+.menu-footer {
+    float: left;
+    margin: 0;
+}
+.menu-footer li {
+    float: left;
+    margin: 0 20px 5px 0;
+    display: inline;
+}
+.menu-footer-wrapper {
+    float: left;
+}
+.copyright {
+    float: left;
+    margin: 0;
+    position: relative;
+    font-size: 12px;
+    color: #a7b5c1;
+}
+.social-icons {
+    float: right;
+    margin-top: 5px;
+}

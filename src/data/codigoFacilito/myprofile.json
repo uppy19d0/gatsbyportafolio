@@ -1,102 +1,106 @@
 {
-    "data": {
-      "email": "luis_aneuris16@hotmail.com",
-      "username": "luisaneuris16",
-      "certificates": [
-        
-      ],
-      "articles": [
-        
-      ],
-      "courses": [
-        {
-          "title": "Curso de C++ Básico Gratis",
-          "progress": "0.0",
-          "url": "http://codigofacilito.com/courses/c-plus-plus"
-        },
-        {
-          "title": "Taller Integración elasticsearch en laravel",
-          "progress": "28.0",
-          "url": "http://codigofacilito.com/courses/laravel-elasticsearch"
-        },
-        {
-          "title": "Curso para desarrollar servicios web REST con Nodejs",
-          "progress": "0.0",
-          "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
-        },
-        {
-          "title": "Curso Profesional de Backend",
-          "progress": "1.0",
-          "url": "http://codigofacilito.com/courses/backend-profesional"
-        },
-        {
-          "title": "Curso de Flutter con Firebase",
-          "progress": "21.0",
-          "url": "http://codigofacilito.com/courses/flutter-crud-firebase"
-        },
-        {
-          "title": "Curso intermedio de Flutter",
-          "progress": "17.0",
-          "url": "http://codigofacilito.com/courses/flutter-intermedio"
-        },
-        {
-          "title": "Curso de Google Maps en Flutter",
-          "progress": "10.0",
-          "url": "http://codigofacilito.com/courses/google-maps-flutter"
-        },
-        {
-          "title": "Curso de introducción al análisis de datos con Python",
-          "progress": "0.0",
-          "url": "http://codigofacilito.com/courses/analisis-datos-python"
-        },
-        {
-          "title": "Curso de Flutter y bases de datos locales con SQLite",
-          "progress": "14.0",
-          "url": "http://codigofacilito.com/courses/flutter-sqlite"
-        },
-        {
-          "title": "Curso para consumir servicios web con Flutter",
-          "progress": "17.0",
-          "url": "http://codigofacilito.com/courses/flutter-servicios-web"
-        },
-        {
-          "title": "Taller de integración de Django y Vue",
-          "progress": "100.0",
-          "url": "http://codigofacilito.com/courses/taller-django-vue"
-        },
-        {
-          "title": "Pruebas automatizadas en Python",
-          "progress": "100.0",
-          "url": "http://codigofacilito.com/courses/python-testing"
-        },
-        {
-          "title": "Curso gratuito de Flask",
-          "progress": "0.0",
-          "url": "http://codigofacilito.com/courses/flask"
-        },
-        {
-          "title": "Curso gratuito de Django",
-          "progress": "0.0",
-          "url": "http://codigofacilito.com/courses/django"
-        },
-        {
-          "title": "Crea un sitio personal con Gatsby",
-          "progress": "53.0",
-          "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
-        }
-      ],
-      "finished_courses": [
-        {
-          "title": "Taller de integración de Django y Vue",
-          "url": "http://codigofacilito.com/courses/taller-django-vue"
-        },
-        {
-          "title": "Pruebas automatizadas en Python",
-          "url": "http://codigofacilito.com/courses/python-testing"
-        }
-      ]
-    },
-    "errors": [
+  "data": {
+    "email": "luis_aneuris16@hotmail.com",
+    "username": "luisaneuris16",
+    "certificates": [
       
+    ],
+    "articles": [
+      
+    ],
+    "courses": [
+      {
+        "title": "Curso de C++ Básico Gratis",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/c-plus-plus"
+      },
+      {
+        "title": "Taller Integración elasticsearch en laravel",
+        "progress": "28.0",
+        "url": "http://codigofacilito.com/courses/laravel-elasticsearch"
+      },
+      {
+        "title": "Curso para desarrollar servicios web REST con Nodejs",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/nodejs-servicios-web"
+      },
+      {
+        "title": "Curso Profesional de Backend",
+        "progress": "1.0",
+        "url": "http://codigofacilito.com/courses/backend-profesional"
+      },
+      {
+        "title": "Curso de Flutter con Firebase",
+        "progress": "21.0",
+        "url": "http://codigofacilito.com/courses/flutter-crud-firebase"
+      },
+      {
+        "title": "Curso intermedio de Flutter",
+        "progress": "17.0",
+        "url": "http://codigofacilito.com/courses/flutter-intermedio"
+      },
+      {
+        "title": "Curso de Google Maps en Flutter",
+        "progress": "10.0",
+        "url": "http://codigofacilito.com/courses/google-maps-flutter"
+      },
+      {
+        "title": "Curso de introducción al análisis de datos con Python",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/analisis-datos-python"
+      },
+      {
+        "title": "Curso de Flutter y bases de datos locales con SQLite",
+        "progress": "14.0",
+        "url": "http://codigofacilito.com/courses/flutter-sqlite"
+      },
+      {
+        "title": "Curso para consumir servicios web con Flutter",
+        "progress": "17.0",
+        "url": "http://codigofacilito.com/courses/flutter-servicios-web"
+      },
+      {
+        "title": "Taller de integración de Django y Vue",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/taller-django-vue"
+      },
+      {
+        "title": "Pruebas automatizadas en Python",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/python-testing"
+      },
+      {
+        "title": "Curso gratuito de Flask",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/flask"
+      },
+      {
+        "title": "Curso gratuito de Django",
+        "progress": "0.0",
+        "url": "http://codigofacilito.com/courses/django"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "100.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      }
+    ],
+    "finished_courses": [
+      {
+        "title": "Taller de integración de Django y Vue",
+        "url": "http://codigofacilito.com/courses/taller-django-vue"
+      },
+      {
+        "title": "Pruebas automatizadas en Python",
+        "url": "http://codigofacilito.com/courses/python-testing"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      }
     ]
-  }
+  },
+  "errors": [
+    
+  ]
+}

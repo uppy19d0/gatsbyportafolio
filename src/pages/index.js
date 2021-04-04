@@ -10,7 +10,8 @@ export default () =>
 <NavEduc/>
 <REPOS/>
 <Codigofacilito/>
-<Footer/>
+{/* <Footer/> */}
+<Footer></Footer>
 </div>
 
 
