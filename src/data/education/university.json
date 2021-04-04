@@ -1,0 +1,13 @@
+{
+    "slug":"university",
+    "title":"Formacion universitaria",
+    "description":"Formacion academica grado tecnologo superior",
+    "items":[
+        {
+            "name":"Instituto Tecnologico De Las America",
+            "degree":"Tecnologo de Desarrollo de Software",
+            "score":"3.8"
+         }
+
+    ]
+}

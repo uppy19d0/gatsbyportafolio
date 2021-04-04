@@ -1,0 +1,23 @@
+{
+    "slug":"certifications",
+    "title":"Certificaciones",
+    "description":"Certificados",
+    "items":[
+        {
+            "name":"Algoritmo Computacional",
+            "degree":"INFOTEP",
+            "url":"https://servicios.infotep.gob.do/Certificados/Forms/Reporte.aspx?id=CUN%2fCrqMqVoLnYMo1g904zmRyL2Wd0aZIpWLPj4yn0hAVmRBwv+3RqA2vARbcniB"
+         },
+         {
+            "name":"PROGRAMACION PHP",
+            "degree":"INFOTEP",
+            "url":"https://servicios.infotep.gob.do/Certificados/Forms/Reporte.aspx?id=CUN%2fCrqMqVoLnYMo1g90439uLsOYbbjn3EiWjqXHbh400XErwdCVFY6ona0xpkI7"
+         },
+         {
+            "name":"TUTOR PARA LA FORMACION EN AMBIENTE VIRTUALES",
+            "degree":"INFOTEP",
+            "url":"https://servicios.infotep.gob.do/Certificados/Forms/Reporte.aspx?id=CUN%2fCrqMqVoLnYMo1g904yFe0%2fPT+K7qKAX%2f48%2fNlL0oDvwaJ61A8BPetafal4if"
+         }
+
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "slug":"experience",
+    "title":"Experiencia Laboral",
+    "description":"Experiencia Laboral Software Developer",
+    "items":[
+        {
+            "name":"ICQ247",
+            "description":"",
+            "technology":"Python,ODOO,flask,react,flutter",
+            "yearStart":"2019",
+            "yearEnd":"2020"
+         }
+
+    ]
+}
