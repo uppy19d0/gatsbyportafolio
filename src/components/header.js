@@ -1,6 +1,7 @@
 import React from "react";
 import illustration from '../imgs/undraw_Success_factors_re_ce93.svg';
 import Form from "./contact.form";
+// import ContactFormPage from "./contact.form";
 export default()=>(
  <header className="bg-gray-300">
     
