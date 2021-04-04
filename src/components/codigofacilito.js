@@ -1,6 +1,6 @@
 import React from "react";
 import Posts from "../components/posts";
-import {graphql, useStaticQuery, useStationQuery} from "gatsby";
+import {graphql, useStaticQuery} from "gatsby";
 import CursoFinish from "../elements/cursosfinish";
 import Curso from "../elements/cursos";
 

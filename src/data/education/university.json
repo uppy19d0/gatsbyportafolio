@@ -2,6 +2,10 @@
     "slug":"university",
     "title":"Formacion universitaria",
     "description":"Formacion academica grado tecnologo superior",
+    "img":{
+        "alt":"",
+        "url":"../imgs/undraw_Success_factors_re_ce93.svg"
+     },
     "items":[
         {
             "name":"Instituto Tecnologico De Las America",

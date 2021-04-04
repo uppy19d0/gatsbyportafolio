@@ -2,6 +2,10 @@
     "slug":"experience",
     "title":"Experiencia Laboral",
     "description":"Experiencia Laboral Software Developer",
+    "img":{
+        "alt":"",
+        "url":"../imgs/undraw_Success_factors_re_ce93.svg"
+     },
     "items":[
         {
             "name":"ICQ247",

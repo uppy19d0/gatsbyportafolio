@@ -1,7 +1,11 @@
 {
     "slug":"certifications",
     "title":"Certificaciones",
-    "description":"Certificados",
+    "description":"Certificados y Cursos Realizado",
+    "img":{
+      "alt":"",
+      "url":"../imgs/undraw_Success_factors_re_ce93.svg"
+   },
     "items":[
         {
             "name":"Algoritmo Computacional",
